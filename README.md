@@ -25,5 +25,3 @@ This is my LMS clone.<br>
 8.Module CSS<br>
 9.Redux, React-Redux<br>
 10.Multer and Cloudinary For photo upload<br>
-
-<h4>Demo Link: https://lms--71.herokuapp.com/<h4/>
